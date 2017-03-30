@@ -3,7 +3,7 @@
 <h3>Description</h3>
 
 <p>
-   This is my description
+   
    </p>
   
   <h3>Screenshots</h3>
@@ -16,4 +16,4 @@
 <a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame"> PyGame Wheel File</a>
 
 <h3>Resources</h3>
-<a href="https://youtu.be/_GikMdhAhv0"> Python Video</a>
+<a href="https://youtu.be/_GikMdhAhv0"> Installing Python 3.6 and PyGame</a>
