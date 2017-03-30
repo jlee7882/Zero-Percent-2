@@ -13,7 +13,5 @@
 <a href="https://www.python.org/downloads/"> Python Download</a>
 
 <h3>Resources</h3>
-<a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame"> PyGame Wheel File</a>
-
-<h3>Resources</h3>
+<a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame"> PyGame Wheel File</a> <br>
 <a href="https://youtu.be/_GikMdhAhv0"> Installing Python 3.6 and PyGame</a>
