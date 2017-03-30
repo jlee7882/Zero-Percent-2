@@ -15,4 +15,5 @@
 <h3>Resources</h3>
 <a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame"> PyGame Wheel File</a>
 
-
+<h3>Resources</h3>
+<a href="https://youtu.be/_GikMdhAhv0"> Python Video</a>
